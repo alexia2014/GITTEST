@@ -1,3 +1,3 @@
 # GITTEST
 test
-d
+do
